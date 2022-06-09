@@ -41,7 +41,7 @@ public class Friends extends JFrame implements MouseListener{
         btnCancel.addMouseListener(this);
         btntxtsave.addMouseListener(this);
     }
-
+//allah yok please
     public static void main(String[] args) {
         new Friends().setVisible(true);
 
